@@ -26,7 +26,7 @@
 #define MICROPY_MODULE___FILE__                 (0)
 #define MICROPY_PY_DELATTR_SETATTR              (0)
 #define MICROPY_PY_BUILTINS_STR_CENTER          (0)
-#define MICROPY_PY_BUILTINS_STR_PARTITION       (0)
+#define MICROPY_PY_BUILTINS_STR_PARTITION       (1)
 #define MICROPY_PY_BUILTINS_STR_SPLITLINES      (0)
 #define MICROPY_PY_BUILTINS_SLICE_INDICES       (0)
 #define MICROPY_PY_BUILTINS_COMPILE             (0)
